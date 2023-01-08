@@ -14,7 +14,6 @@
 [linkedin]: https://www.linkedin.com/in/perihangire/
 
 <br/>
-<br/>
 
 ### Tech I use
 
