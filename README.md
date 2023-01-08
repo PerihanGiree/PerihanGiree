@@ -9,7 +9,7 @@
 
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg "/>][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/perihangire/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/perihangire) 
 
 <br/>
 
