@@ -5,8 +5,6 @@
 
 ## Computer Engineer
 
-<font color="pink"> Coffe coffe is how I keep up with '</>' </font>
-
 ### Reach out to me
 
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg "/>][linkedin]
