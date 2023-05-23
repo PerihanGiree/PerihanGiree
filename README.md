@@ -1,5 +1,4 @@
 
-<img src="https://media3.giphy.com/media/mCRJDo24UvJMA/giphy.gif?cid=ecf05e47rjdvfuu2hpxko9q0yblbo54r22tiwqefzpaupro0&rid=giphy.gif&ct=g" align="right" witdh=400 height=250>
 
 ### Hi there,I'm Perihan. 👋
 
